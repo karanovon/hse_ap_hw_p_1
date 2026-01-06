@@ -35,3 +35,5 @@ streamlit run app.py
 
 В качестве примера входных данных можно использовать файл
 `data/temperature_data.csv`, содержащий исторические температурные наблюдения.
+
+**Ссылка на приложение:** https://hseaphwp1-nvgbxqvcmwwemmljkhcir9.streamlit.app/
